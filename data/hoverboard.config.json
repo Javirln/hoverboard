@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://agmcostabrava.firebaseapp.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -11,15 +11,15 @@
     "twitter": "gdglviv"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "AGMCostaBrava",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "agmcostabrava",
+    "domain": "agmcostabrava.firebaseapp.com",
+    "database": "https://agmcostabrava.firebaseio.com",
+    "api": "AIzaSyAfo8vapBr4cJ_dqL56h0YPCGWExtMSkpY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -73,8 +73,8 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "AGM Costa Brava",
+      "url": "https://www.facebook.com/agmcostabrava/"
     },
     {
       "name": "linkedin",
