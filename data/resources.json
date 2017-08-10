@@ -1,11 +1,11 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "AGM Costa Brava",
+  "description": "The Annual General Meeting of the Erasmus Student Network is the largest European student conference focusing on the theme of mobility. In the year 2018 Spain will be host of the AGM, hosting a delegation of 1000 students representing more than 500 Higher Education Institutions from 39 countries to elect a new International Board, debate the future of the network and the broader role of internationally oriented youth in Europe.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
+  "dates": "March 28-01, 2018",
+  "locationAddressShort": "Platja d'Aro, Spain",
+  "motto": "It's about ESN",
+  "playIcon": "See how it was in the last edition",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
@@ -28,9 +28,9 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "Àrea d'Esports · Palau d'Esports i Congressos",
+  "locationDescription": "Newly built Àrea d'Esports · Palau d'Esports is a long-awaited exhibition center in Platja d'Aro, which can fulfill the needs of the large-scale event",
+  "locationAddress": "Plaça Europa s/n, 17250 Platja d'Aro, Girona, Spain",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
   "openTeamPage": "Open team page",
@@ -113,8 +113,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "agm@esn-spain.org",
+        "url": "mailto:agm@esn-spain.org"
       }
     ]
   },
@@ -122,11 +122,11 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": "900+",
       "caption": "Attendees"
     },
     {
-      "counter": 2,
+      "counter": 4,
       "caption": "Days"
     },
     {

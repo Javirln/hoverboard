@@ -7,7 +7,7 @@
     "dev": "UA-104400303-1"
   },
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "AGM Costa Brava",
     "twitter": "gdglviv"
   },
   "webapp": {
@@ -29,7 +29,7 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "es-ES",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "dfua",
@@ -62,39 +62,24 @@
   ],
   "social": [
     {
-      "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
-    },
-    {
-      "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
-    },
-    {
       "name": "facebook",
       "nickname": "AGM Costa Brava",
       "url": "https://www.facebook.com/agmcostabrava/"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Àrea d'Esports · Palau d'Esports i Congressos",
+    "address": "Plaça Europa s/n, 17250 Platja d'Aro, Girona, Spain",
+    "link": "https://ciutada.platjadaro.com",
     "pointer": {
-      "latitude": 49.809841,
+      "latitude": 41.8161875,
       "longitude": 23.972805,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 41.8161875,
+      "longitude": 3.0630022
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -121,12 +106,12 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "AGM Germany 2017",
+          "youtubeId": "Ry-GFNUVUK8",
+          "text": "See how it was in 2017"
         },
         "hideLogo": true,
-        "minHeight": "360px"
+        "minHeight": "439px"
       }
     },
     "blog": {
