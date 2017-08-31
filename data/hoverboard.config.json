@@ -8,7 +8,7 @@
   },
   "organizer": {
     "name": "AGM Costa Brava",
-    "twitter": "gdglviv"
+    "twitter": "agmcostabrava"
   },
   "webapp": {
     "shortName": "AGMCostaBrava",
@@ -37,27 +37,11 @@
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "enableSessionsRating": true,
+  "enableSessionsRating": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
@@ -68,13 +52,13 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAXVyuQb6Xa8qSs8Q_a9Mhp51XsaoMZ8hg",
     "name": "Àrea d'Esports · Palau d'Esports i Congressos",
     "address": "Plaça Europa s/n, 17250 Platja d'Aro, Girona, Spain",
     "link": "https://ciutada.platjadaro.com",
     "pointer": {
       "latitude": 41.8161875,
-      "longitude": 23.972805,
+      "longitude": 3.0630022,
       "zoom": 15
     },
     "mapCenter": {
@@ -88,12 +72,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://drive.google.com/drive/folders/0B91RB_9zow5tRm9wNV9LQzJEMGM",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/agm-germany-main.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/agm-germany-speakers.jpg",
+        "/images/backgrounds/agm-germany-volunteers.jpg"
       ]
     }
   },

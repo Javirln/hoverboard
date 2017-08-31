@@ -27,15 +27,15 @@
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
+  "action": "Official video",
   "locationTitle": "Àrea d'Esports · Palau d'Esports i Congressos",
   "locationDescription": "Newly built Àrea d'Esports · Palau d'Esports is a long-awaited exhibition center in Platja d'Aro, which can fulfill the needs of the large-scale event",
   "locationAddress": "Plaça Europa s/n, 17250 Platja d'Aro, Girona, Spain",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "organizerTitle": "Organising Committee",
+  "aboutOrganizers": "AGM Costa Brava is being organized by members of ESN Spain's section spread through all Spain",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "whatIsGdg": "What is the AGM?",
+  "aboutGdg": "The Annual General Meeting of the Erasmus Student Network is the largest European student conference focusing on the theme of mobility. In the year 2018 Spain will be host of the AGM, hosting a delegation of 1000 students representing more than 500 Higher Education Institutions from 39 countries to elect a new International Board, debate the future of the network and the broader role of internationally oriented youth in Europe.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -126,20 +126,20 @@
       "caption": "Attendees"
     },
     {
+      "counter": "500+",
+      "caption": "Organizations"
+    },
+    {
       "counter": 4,
       "caption": "Days"
     },
     {
-      "counter": 30,
-      "caption": "Sessions"
-    },
-    {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": "10+",
+      "caption": "Partners"
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "Erasmus Student Network",
+    "videoId": "WQ071yzhUxI"
   }
 }
