@@ -9,9 +9,9 @@
     "title" : "Template Creator"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/partners/unono-logo.jpg",
+      "name" : "Unono",
+      "url" : "https://unono.net/"
     }, {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
