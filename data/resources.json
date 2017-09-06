@@ -64,12 +64,7 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "http://bit.ly/dossierPatrocinio",
           "newTab": true
         }
       ]
@@ -78,8 +73,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "agm@esn-spain.org",
-        "url": "mailto:agm@esn-spain.org"
+        "text": "info.agmcostabrava@esn-spain.org",
+        "url": "mailto:info.agmcostabrava@esn-spain.org"
       }
     ]
   },
