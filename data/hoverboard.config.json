@@ -57,13 +57,13 @@
     "address": "Plaça Europa s/n, 17250 Platja d'Aro, Girona, Spain",
     "link": "https://ciutada.platjadaro.com",
     "pointer": {
-      "latitude": 41.8161875,
-      "longitude": 3.1248164,
+      "latitude": 41.816633,
+      "longitude": 3.0613443,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 41.8161875,
-      "longitude": 3.1248164
+      "latitude": 41.8154678,
+      "longitude": 3.0756998
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -86,7 +86,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#1976D2",
-        "backgroundImage": "/images/backgrounds/home-1.png",
+        "backgroundImage": "/images/backgrounds/home-warsaw.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#1976D2",
         "video": {
@@ -95,7 +95,7 @@
           "text": "See how it was in 2017"
         },
         "hideLogo": true,
-        "minHeight": "439px"
+        "minHeight": "400px"
       }
     },
     "blog": {

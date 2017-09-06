@@ -15,18 +15,20 @@
   <template>
 
     <style include="shared-styles">
-      :host {
+     :host {
         --paper-tabs-selection-bar-color: #FFFFFF;
         --paper-tab-ink: rgba(255, 255, 255, 0.2);
         --paper-tab-content: {
           font-weight: 400 !important;
-        };
+        }
+        ;
         --paper-tab: {
           color: #FFFFFF;
           font-weight: 400;
           text-transform: uppercase;
           flex: none;
-        };
+        }
+        ;
         display: block;
         position: relative;
         overflow: hidden;
@@ -72,6 +74,7 @@
       .logo {
         width: 120px;
         min-height: 80px;
+        margin-bottom: 10px;
       }
 
       .dates {
@@ -79,10 +82,22 @@
         text-transform: uppercase;
       }
 
+      .dates span {
+        background-color: yellow;
+        color: black;
+        padding: 5px 10px;
+      }
+
       .motto {
         margin-top: 20px;
         font-size: 22px;
         line-height: 1;
+      }
+
+      .motto span {
+        background-color: yellow;
+        color: black;
+        padding: 5px 10px;
       }
 
       .action-buttons {
@@ -101,26 +116,23 @@
         cursor: pointer;
         font-size: 16px;
       }
+    }
 
-      .open-video iron-icon {
-        margin-right: 5px;
+    @media (min-width: 601px) {
+      .container {
+        padding-bottom: 40px;
       }
 
-      @media (min-width: 601px) {
-        .container {
-          padding-bottom: 40px;
-        }
-
-        .home-wrapper {
-          width: 50%;
-          max-width: 500px;
-        }
-
-        app-toolbar {
-          min-height: 360px;
-        }
+      .home-wrapper {
+        width: 50%;
+        max-width: 500px;
       }
 
+      app-toolbar {
+        min-height: 360px;
+        max-height: 360px;
+      }
+    }
     </style>
 
     <app-toolbar>
@@ -128,15 +140,14 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-color.png" sizing="contain"
-                          alt="AGM Costa Brava 2018"></iron-image>
-              <h3 class="dates">{$ dates $}</h3>
-              <h2 class="motto">{$ motto $}</h2>
+              <iron-image class="logo" src="/images/logo-white.png" sizing="contain" alt="AGM Costa Brava 2018"></iron-image>
+              <h3 class="dates"><span>{$ dates $}</span></h3>
+              <h2 class="motto"><span>{$ motto $}</span></h2>
               {% if pages.home.headerSettings.video %}
-                <div class="open-video" on-tap="_openVideo">
-                  <iron-icon icon="play"></iron-icon>
-                  {$ playIcon $}
-                </div>
+              <div class="open-video" on-tap="_openVideo">
+                <iron-icon icon="play"></iron-icon>
+                {$ playIcon $}
+              </div>
               {% endif %}
               <!-- <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
@@ -151,15 +162,13 @@
             <div class="page-subtitle" hidden$="{{!app.headerSettings.subtitle}}">[[app.headerSettings.subtitle]]</div>
           </div>
         </animatable-content>
-        {% for page, settings in pages %}
-          {% if page !== 'home' and page !== 'blog' %}
-            <animatable-content name="{$ page $}">
-              <div class="container">
-                <h3 class="page-title">{$ settings.title $}</h3>
-              </div>
-            </animatable-content>
-          {% endif %}
-        {% endfor %}
+        {% for page, settings in pages %} {% if page !== 'home' and page !== 'blog' %}
+        <animatable-content name="{$ page $}">
+          <div class="container">
+            <h3 class="page-title">{$ settings.title $}</h3>
+          </div>
+        </animatable-content>
+        {% endif %} {% endfor %}
       </neon-animated-pages>
     </app-toolbar>
 
