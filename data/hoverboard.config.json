@@ -58,12 +58,12 @@
     "link": "https://ciutada.platjadaro.com",
     "pointer": {
       "latitude": 41.8161875,
-      "longitude": 3.0630022,
+      "longitude": 3.1248164,
       "zoom": 15
     },
     "mapCenter": {
       "latitude": 41.8161875,
-      "longitude": 3.0630022
+      "longitude": 3.1248164
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -85,10 +85,10 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#1976D2",
+        "backgroundImage": "/images/backgrounds/home-1.png",
         "fontColor": "#fff",
-        "tabBarColor": "#fff",
+        "tabBarColor": "#1976D2",
         "video": {
           "title": "AGM Germany 2017",
           "youtubeId": "Ry-GFNUVUK8",
