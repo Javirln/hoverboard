@@ -35,7 +35,7 @@
   "hashtag": "dfua",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/dossierPatrocinio",
+  "partnershipProposition": "https://agmcostabrava.esn-spain.org/data/documents/dossierPatrocinio.pdf",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": false,
   "navigation": [
@@ -67,8 +67,7 @@
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_2.jpg"
     ]
   },
   "gallery": {
