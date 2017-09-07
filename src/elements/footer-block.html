@@ -195,7 +195,7 @@
             <ul class="link-block">
               {% for link in contactBlock.links %}
                 <li>
-                  <a href="{$ link.url $}" {% if link.newTab %}target="_blank" rel="noopener noreferrer"{% endif %}>{$ link.text $}</a>
+                   <!--email_off--><a href="{$ link.url $}" {% if link.newTab %}target="_blank" rel="noopener noreferrer"{% endif %}>{$ link.text $}</a><!--/email_off-->
                 </li>
               {% endfor %}
             </ul>
