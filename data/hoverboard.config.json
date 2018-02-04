@@ -1,5 +1,5 @@
 {
-  "url": "https://agmcostabrava.firebaseapp.com/",
+  "url": "https://agmcostabrava.esn-spain.org/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -57,8 +57,8 @@
     "address": "Plaça Europa s/n, 17250 Platja d'Aro, Girona, Spain",
     "link": "https://ciutada.platjadaro.com",
     "pointer": {
-      "latitude": 41.816633,
-      "longitude": 3.0613443,
+      "latitude": 41.8165592,
+      "longitude": 3.0635228,
       "zoom": 15
     },
     "mapCenter": {
